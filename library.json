@@ -12,7 +12,7 @@
         "srcDir": "lib",
         "includeDir": "lib",
         "flags": [
-            "-Ilib/atcaert",
+            "-Ilib/atcacert",
             "-Ilib/hal",
             "-Ilib/crypto",
             "-Ilib/host",
